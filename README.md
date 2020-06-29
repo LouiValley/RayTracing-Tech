@@ -30,7 +30,7 @@ I have been working on energy-efficient architecture design for deep learning. S
   - *Basic knowledge about ray tracing*
 - **Ray Tracing The Next Week** 
   - *Advanced knowledge about ray tracing*
-  - **Ray Tracing The Rest of Your Life** 
+- **Ray Tracing The Rest of Your Life** 
   - *You can be Ray tracing master*
   
 
