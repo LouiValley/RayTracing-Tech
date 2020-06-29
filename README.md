@@ -25,11 +25,19 @@ I have been working on energy-efficient architecture design for deep learning. S
  - [Industry Contributions](#industry-contributions)
 
 ## Important Topics
+### Tutorial about RayTracing
+- **Ray Tracing in One Weekend** 
+  - *Basic knowledge about ray tracing*
+- **Ray Tracing The Next Week** 
+  - *Advanced knowledge about ray tracing*
+  - **Ray Tracing The Rest of Your Life** 
+  - *You can be Ray tracing master*
+  
 
 ### AI tech in RayTracing
 - **Learning light transport the reinforced way.** (NVIDIA Research Team In ACM SIGGRAPH 2017 Talks(SIGGRAPH ’17))
-  - *Combine reinforcement learning process with the ray tracing, brings up a new idea from the rendering equation.
-  - *Using neural network to do some inference to compute the ray direction instead of the importance sampling.
+  - *Combine reinforcement learning process with the ray tracing, brings up a new idea from the rendering equation.*
+  - *Using neural network to do some inference to compute the ray direction instead of the importance sampling.*
 
  
 ## Industry Contributions
