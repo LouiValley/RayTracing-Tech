@@ -39,9 +39,20 @@ I have been working on energy-efficient architecture design for deep learning. S
   - *Combine reinforcement learning process with the ray tracing, brings up a new idea from the rendering equation.*
   - *Using neural network to do some inference to compute the ray direction instead of the importance sampling.*
 
+### DeNoise
+- **Spatiotemporal Variance-Guided Filtering: Real-Time Reconstruction for Path-Traced Global Illumination.** (High Performance Graphics 2017)
+  - *It uses spatiotemporal variance-guided filtering to rebuild the statistic figures processed by ray tracing method*
+
+
+- **Reconstruction of Monte Carlo Image Sequences using a Recurrent Denoising Autoencoder.** (Chaitanya C R A , Kaplanyan A S , Schied C , et al. Acm Transactions on Graphics, 2017, 36(4):1-12.)
+  - *A machine learning technique for reconstructing image sequences rendered using Monte Carlo methods.* 
+
  
 ## Industry Contributions
  - [NVIDIA](http://www.nvidia.com/)
    - RTX 2080/3080: PC platform for ray tracing. 
 
+## BenchMarks
+ - [Sponze]
+ - [Cornell Boxes]
 
