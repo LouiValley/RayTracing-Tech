@@ -51,7 +51,7 @@ If you are a freshman and know nothing about the ray tracing, I strongly recomma
   - *Basic knowledge about ray tracing*
 - **[Ray Tracing The Next Week](https://raytracing.github.io/books/RayTracingTheNextWeek.html)** 
   - *Advanced knowledge about ray tracing*
-- **R[ay Tracing The Rest of Your Life](https://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)** 
+- **[Ray Tracing The Rest of Your Life](https://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)** 
   - *You can be a Ray tracing master*
   
 
