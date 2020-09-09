@@ -29,7 +29,7 @@ I used to purchase my master degree in Tsinghua University, and I focus on energ
   - *Regarding high-performance computing, we have proposed convolution optimization schemes based on integral and filter splitting feature reconstruction to enable low bit neural network operations to meet high-performance requirements.*
 
 ## What I am doing now
-And now I have been working in a fabless company, and do some researches and engineering work bout  ray tracing tech on a mobile GPU. I am very familiar with acceleration structure in RT and I am the AS building algorithm owner for the hardware design, moreover I am also interested in and do some researches about other necessray knowledge aspects about ray tracing including: ray traversal&intersection, AI tech in raytracing(reinforcement learning in ray sampling), denoise tech for ray tracing and others.
+I am now working in a fabless company, and do some researches and engineering work about ray tracing tech on a mobile GPU. I am very familiar with acceleration structure in RT and I am the AS building algorithm owner for the hardware design, moreover I also do some researches about other necessary knowledge aspects about ray tracing including: ray traversal&intersection, AI tech in raytracing(reinforcement learning in ray sampling), denoise tech for ray tracing and others.
 
 ## Table of Contents
  - [My Contributions](#my-contributions)
