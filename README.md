@@ -1,10 +1,16 @@
 # Ray Tracing Tech 
+Ray tracing is a rendering technique that can produce incredibly realistic lighting effects. Essentially, an algorithm can trace the path of light, and then simulate the way that the light interacts with the virtual objects it ultimately hits in the computer-generated world. 
 
-Nowadays ray tracing is a fantastic tech in a rendering pipeline.
-This is a paper list about the most important techs and some hard core knowledge about ray tracing which are organized by myself. It 
-There will be a collection of papers that interest me. The emphasis is focused on, but not limited to raytracing itself. Papers of significance are marked in **bold**. My comments are marked in *italic*.
+Here is a vedio to show you.
+[**12 Games That Look INSANE Due To Ray Tracing**](https://www.youtube.com/watch?v=lNSpiret-9g)
 
+This is a collection organized by myself about the most important techs and some hard core knowledge about ray tracing. 
 These contents includes the API, ray tracing algotithms(acceleration structure building, ray traversal& intersection& denoise& AI tech), benchmarks and so on.
+This is my review of my knowledge system about ray tracing, and it can also help researchers engaged in research to quickly master the knowledge of ray tracing.
+
+There is a collection of papers that interest me. The emphasis is focused on, but not limited to raytracing itself. Papers of significance are marked in **bold**. My comments are marked in *italic*.
+
+
 
 ## Intro about myself
 I used to purchase my master degree in Tsinghua University, and I focus on energy-efficient architecture design for deep learning. Some featured works are presented here. 
