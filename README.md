@@ -13,7 +13,7 @@ There is a collection of papers that interest me. The emphasis is focused on, bu
 
 
 ## Intro about myself
-I used to purchase my master degree in Tsinghua University, and I focus on energy-efficient architecture design for deep learning. Some featured works are presented here. 
+I used to pursue my master degree in Tsinghua University, and I focus on energy-efficient architecture design for deep learning. Some featured works are presented here. 
 
 - [**Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.**](https://ieeexplore.ieee.org/document/8412607) (**IEEE TRANS TCAD**)
   - *This work aims to accelerate a generative network, which includes CONV layers, DeCONV layers and residual blocks.*
