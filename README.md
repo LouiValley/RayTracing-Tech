@@ -13,7 +13,7 @@ There is a collection of papers that interest me. The emphasis is focused on, bu
 
 
 ## Intro about myself
-I used to pursue my master degree in Tsinghua University, and I focus on energy-efficient architecture design for deep learning. Some featured works are presented here. 
+I got my master degree in Tsinghua University (2019), advised by Prof.Shouyi Yin, and I focus on energy-efficient architecture design for deep learning. Some featured works are presented here. 
 
 - [**Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.**](https://ieeexplore.ieee.org/document/8412607) (**IEEE TRANS TCAD**)
   - *This work aims to accelerate a generative network, which includes CONV layers, DeCONV layers and residual blocks.*
@@ -28,8 +28,10 @@ I used to pursue my master degree in Tsinghua University, and I focus on energy-
   - *In the optimization of the storage system, an acceleration scheme of neural network based on eDRAM and ReRAM scheme, which is used for computing and storage integration, satisfy the requirement of neural network computing.*
   - *Regarding high-performance computing, we have proposed convolution optimization schemes based on integral and filter splitting feature reconstruction to enable low bit neural network operations to meet high-performance requirements.*
 
-## What I am doing now
-I am now working in a fabless company, and do some researches and engineering work about ray tracing tech on a mobile GPU. I am very familiar with acceleration structure in RT and I am the AS building algorithm owner for the hardware design, moreover I also do some researches about other necessary knowledge aspects about ray tracing including: ray traversal&intersection, AI tech in raytracing(reinforcement learning in ray sampling), denoise tech for ray tracing and others.
+I worked as a Senior Engineer at Hisilicon (2019~2021), and did some researches and engineering work about ray tracing tech on a mobile GPU. I was very familiar with acceleration structure in RT and I was the AS building algorithm owner for the hardware design, moreover I also did some researches about other necessary knowledge aspects about ray tracing including: ray traversal&intersection, AI tech in raytracing(reinforcement learning in ray sampling), denoise tech for ray tracing and others.
+
+## What I have  to doing now
+Now I am pursing my Ph.D degree at Tokyo Tech University (From 2021~), advised by Prof.Motomura. And my interesting topics include deep learning, computer architecture, GPU, Ray-tracing.
 
 ## Table of Contents
  - [My Contributions](#my-contributions)
