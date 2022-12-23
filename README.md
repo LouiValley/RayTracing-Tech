@@ -1,11 +1,10 @@
 # Ray Tracing Tech 
-Ray tracing is a rendering technique that can produce incredibly realistic lighting effects. Essentially, an algorithm can trace the path of light, and then simulate the way that the light interacts with the virtual objects it ultimately hits in the computer-generated world. 
+Ray tracing is a rendering technique that can produce incredibly realistic lighting effects. Essentially, an algorithm can trace the path of light and then simulate the way that the light interacts with the virtual objects it ultimately hits in the computer-generated world. 
 
-Here is a vedio to show you.
+Here is a video to show you.
 [**12 Games That Look INSANE Due To Ray Tracing**](https://www.youtube.com/watch?v=lNSpiret-9g)
 
-This is a collection organized by myself about the most important techs and some hard core knowledge about ray tracing. 
-These contents includes the API, ray tracing algotithms(acceleration structure building, ray traversal& intersection& denoise& AI tech), benchmarks and so on.
+This is a collection organized by myself about the most important techs and some hard-core knowledge about ray tracing. These contents include the API, ray tracing algorithms (acceleration structure building, ray traversal& intersection& denoise& AI tech), benchmarks and so on.
 This is my review of my knowledge system about ray tracing, and it can also help researchers engaged in research to quickly master the knowledge of ray tracing.
 
 There is a collection of papers that interest me. The emphasis is focused on, but not limited to raytracing itself. Papers of significance are marked in **bold**. My comments are marked in *italic*.
@@ -13,28 +12,10 @@ There is a collection of papers that interest me. The emphasis is focused on, bu
 
 
 ## Intro about myself
-I got my master degree in Tsinghua University (2019), advised by Prof.Shouyi Yin, and I focus on energy-efficient architecture design for deep learning. Some featured works are presented here. 
+My name is Jiale Yan. This is my [homepage](https://louivalley.github.io/). I'm currently a P.h.D candidate at [Artic Lab](http://www.artic.iir.titech.ac.jp/wp/en/), Tokyo Institute of Technology, Japan, advised by Prof. [Masato Motomura, IEEE Fellow](http://www.artic.iir.titech.ac.jp/wp/en/people/prof-motomura/). Before joining Tokyo Tech, I received my master's degree from the Institute of Microelectronics, Tsinghua University, advised by Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm).
 
-- [**Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.**](https://ieeexplore.ieee.org/document/8412607) (**IEEE TRANS TCAD**)
-  - *This work aims to accelerate a generative network, which includes CONV layers, DeCONV layers and residual blocks.*
-  - *A dual convolution mapping method for CONV and DeCONV layers to make full use of the available PE resources.*
-  - *Precision-adaptive PEs and buffer bandwidth reconfiguration are used to support flexible bitwidths for both inputs and weights in deep neural networks*
-  - *A cross-layer scheduling method is also proposed to avoid extra off-chip memory access in residual block processing*
-
-
-- [**Research on low-power neural network computing accelerator.**](http://engine.scichina.com/publisher/scp/journal/SSI/49/3/10.1360/N112018-00282?slug=fulltext) (**SCIENTIA SINICA**)
-  - *This study aims to propose a reconfigurable hardware architecture to meet the flexibility requirements of a neural network.*
-  - *Based on the proposed architecture, the corresponding data access optimization schemes are explored to reduce the power consumption.*
-  - *In the optimization of the storage system, an acceleration scheme of neural network based on eDRAM and ReRAM scheme, which is used for computing and storage integration, satisfy the requirement of neural network computing.*
-  - *Regarding high-performance computing, we have proposed convolution optimization schemes based on integral and filter splitting feature reconstruction to enable low bit neural network operations to meet high-performance requirements.*
-
-I worked as a Senior Engineer at Hisilicon (2019~2021), and did some researches and engineering work about ray tracing tech on a mobile GPU. I was very familiar with acceleration structure in RT and I was the AS building algorithm owner for the hardware design, moreover I also did some researches about other necessary knowledge aspects about ray tracing including: ray traversal&intersection, AI tech in raytracing(reinforcement learning in ray sampling), denoise tech for ray tracing and others.
-
-## What I have  to doing now
-Now I am pursing my Ph.D degree at Tokyo Tech University (From 2021~), advised by Prof.Motomura. And my interesting topics include deep learning, computer architecture, GPU, Ray-tracing.
 
 ## Table of Contents
- - [My Contributions](#my-contributions)
   - [Important Topics](#important-topics)
    - [Tutorial about RayTracing](#tutorial-and-survey) 
    - [Acceleration Structure in RT](#BVH)
